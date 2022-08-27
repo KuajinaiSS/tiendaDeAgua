@@ -1,0 +1,6 @@
+Francisco,Perez,18765988-0,German Borgoño 233,Cachantun,20L,2,5578.0
+German,Soto,15777132-5,Caliche 310,Vital,5L,1,1406.0
+Pablo,Valdes,17490199-2,Baron de la Reviere 2208,Purita,20L,4,12279.0
+German,Soto,15777132-5,Caliche 310,Benedictino,20L,1,2996.0
+Fracisco,Perez,18765988-0,General Borgoño 233,qwe,20L,2,2529.7
+nocho,aaaa,12121212-2,xd,Benedictino,20L,2,5801.5999999999985

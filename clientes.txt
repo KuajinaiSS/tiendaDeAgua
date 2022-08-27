@@ -1,0 +1,7 @@
+Fracisco,Perez,18765988-0,General Borgoño 233,completo123,Banco de Chile,9880
+Luis,Avedaño,19962344-k,Bonilla 900,PaSsWoRd
+German,Soto,15777132-5,Caliche 310,asdfg_9,Banco de Chile,6955
+Pablo,Valdes,17490199-2,Baron de la Revivire 2208,pablitoclavounclavito,Banco Santander,3297
+Ricardo,Gonzalez,13456921-4,Andres Savela 537,security09
+hola,hola,12345678-9,asd,1234
+nocho,aaaa,12121212-2,xd,4321,Banco Bci,2122
